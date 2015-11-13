@@ -1,0 +1,17 @@
+#wheelPic:hover {
+    background-color: black;
+}
+
+.mainContainer img {
+    margin: 0 auto;
+}
+
+#display {
+    border: 1px solid #000000;
+    margin: 50px auto;
+    display: block;
+}
+
+.hoverMe:hover{
+    background-color: black;
+}

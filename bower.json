@@ -1,0 +1,25 @@
+{
+  "name": "CodingChallenge",
+  "authors": [
+    "Jeff Ward <jeffwardcoding@gmail.com>"
+  ],
+  "description": "A coding challenge for Justin Mealey",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "EaselJS": "~0.8.1",
+    "TweenJS": "~0.6.1",
+    "jquery": "jQuery#~2.1.4",
+    "bootstrap": "~3.3.5"
+  }
+}
